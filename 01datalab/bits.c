@@ -270,6 +270,7 @@ int howManyBits(int x)
 {
   return 0;
 }
+
 // float
 /*
  * floatScale2 - Return bit-level equivalent of expression 2*f for
